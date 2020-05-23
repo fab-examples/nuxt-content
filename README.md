@@ -1,10 +1,9 @@
-<h3 align="center"><img width="190" alt="FAB Examples" src="https://user-images.githubusercontent.com/23264/82729969-24b4bf80-9cf4-11ea-8056-ee129eb08d09.png">
+<h3 align="center"><a href="https://fab.dev"><img width="190" alt="FAB Examples" src="https://user-images.githubusercontent.com/23264/82729969-24b4bf80-9cf4-11ea-8056-ee129eb08d09.png"></a>
 </h3>
-
-<h3 align="center">https://nuxt-content-docs.linc.workers.dev/</h3>
 
 This is the https://github.com/nuxt/content project converted to [Frontend Application Bundles](https://fab.dev), deployed to [Cloudflare Workers](https://workers.dev) using [Linc](https://linc.sh):
 
+<h3 align="center"><a href="https://nuxt-content-docs.linc.workers.dev/">https://nuxt-content-docs.linc.workers.dev/</a></h3>
 
 * See the [code changes required](https://github.com/nuxt/content/compare/master...fab-examples:master) to make this work
 * [Get started](https://fab.dev/guides/getting-started) yourself with FABs
