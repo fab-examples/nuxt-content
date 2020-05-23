@@ -3,7 +3,7 @@
 
 This is the https://github.com/nuxt/content project converted to [Frontend Application Bundles](https://fab.dev), deployed to [Cloudflare Workers](https://workers.dev) using [Linc](https://linc.sh):
 
-<h3 align="center"><a href="https://nuxt-content-docs.linc.workers.dev/">https://nuxt-content-docs.linc.workers.dev/</a></h3>
+<h3 align="center"><a href="https://nuxt-content-docs.linc.workers.dev/">ht&#8203;tps://nuxt-content-docs.linc.workers.dev/</a></h3>
 
 * See the [code changes required](https://github.com/nuxt/content/compare/master...fab-examples:master) to make this work
 * [Get started](https://fab.dev/guides/getting-started) yourself with FABs
